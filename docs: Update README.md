@@ -6,7 +6,7 @@ Cloud Computing — PTI 2802
 Pertemuan 3 — Project Inception
 
 ## Author
-<Wifa Fazriyatul fadhla> / 2583207073003 / <Kelas>
+<Wifa Fazriyatul fadhla> / 2583207073003 / <2A>
 
 ## Problem
 Pengelolaan data santri di pesantren masih manual sehingga data sulit dicari, rawan salah catat, dan tidak mudah diakses pengurus.
